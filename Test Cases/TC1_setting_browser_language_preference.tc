@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC1</name>
+   <name>TC1_setting_browser_language_preference</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>9f7c7ae2-6bc3-4fa7-b95b-88ede3823877</testCaseGuid>
